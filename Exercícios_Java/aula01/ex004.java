@@ -1,7 +1,7 @@
-package JavaCaldeira.Exercícios_Java.aula001;
+package JavaCaldeira.Exercícios_Java.aula01;
 import java.text.DecimalFormat;
 import java.util.Scanner;
-import java.text.DateFormat;
+
 public class ex004 {
     public static void main(String[] args) {
 

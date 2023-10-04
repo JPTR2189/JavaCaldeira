@@ -1,4 +1,4 @@
-package JavaCaldeira.Exercícios_Java.aula001;
+package JavaCaldeira.Exercícios_Java.aula01;
 
 import java.util.List;
 import java.util.Scanner;
