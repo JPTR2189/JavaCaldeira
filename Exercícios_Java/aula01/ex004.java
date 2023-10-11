@@ -7,17 +7,18 @@ public class ex004 {
 
         int salarioMinimo = 1320;
 
-        DecimalFormat formatador = new DecimalFormat("#.##git ");
+        DecimalFormat formatador = new DecimalFormat("#.## ");
 
         Scanner scanner = new Scanner(System.in);
         System.out.printf("Digite seu salário: ");
         String salario = scanner.nextLine();
 
         Float numeroConvertido = Float.parseFloat(salario);
-        Float quantidadeDeSalariosMinimos = Float.valueOf(formatador.format(numeroConvertido));
+        Float quantidadeDeSalariosMinimos = numeroConvertido;
 
+        Float total = quantidadeDeSalariosMinimos/ salarioMinimo;
 
-        System.out.println("Seu salário vale " + quantidadeDeSalariosMinimos/ salarioMinimo + " salários minímos");
+        System.out.println("Seu salário vale " + formatador.format(total) + " salários minímos");
 
 
 
