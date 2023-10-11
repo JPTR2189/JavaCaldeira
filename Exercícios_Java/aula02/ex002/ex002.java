@@ -1,5 +1,5 @@
-package JavaCaldeira.Exercícios_Java.aula02;
-import javax.naming.directory.SchemaViolationException;
+package JavaCaldeira.Exercícios_Java.aula02.ex002;
+
 import java.util.Scanner;
 
 // Raio ser sempre um valor positivo

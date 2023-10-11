@@ -1,4 +1,4 @@
-package JavaCaldeira.Exercícios_Java.aula02;
+package JavaCaldeira.Exercícios_Java.aula02.ex002;
 
 import java.text.DecimalFormat;
 

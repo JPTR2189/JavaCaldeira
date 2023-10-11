@@ -1,4 +1,4 @@
-package JavaCaldeira.Exercícios_Java.aula02;
+package JavaCaldeira.Exercícios_Java.aula02.ex001;
 import java.util.Scanner;
 
 public class ex001 {

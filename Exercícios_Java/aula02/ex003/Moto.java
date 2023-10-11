@@ -1,6 +1,6 @@
-package JavaCaldeira.Exercícios_Java.aula02;
+package JavaCaldeira.Exercícios_Java.aula02.ex003;
 
-public class Moto extends Veiculo{
+public class Moto extends Veiculo {
 
     @Override
     public void calcularCustoViagem(int distancia) {

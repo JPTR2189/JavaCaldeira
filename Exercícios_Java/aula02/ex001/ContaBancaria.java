@@ -1,4 +1,4 @@
-package JavaCaldeira.Exercícios_Java.aula02;
+package JavaCaldeira.Exercícios_Java.aula02.ex001;
 import java.time.format.DateTimeFormatter;
 import java.util.Random;
 import java.time.LocalDateTime;
