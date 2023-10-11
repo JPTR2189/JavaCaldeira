@@ -2,6 +2,9 @@ package JavaCaldeira.Exercícios_Java.aula02;
 import javax.naming.directory.SchemaViolationException;
 import java.util.Scanner;
 
+// Raio ser sempre um valor positivo
+// Tarefa adicional 6, 9 e 10 ????
+
 
 public class ex002 {
 
