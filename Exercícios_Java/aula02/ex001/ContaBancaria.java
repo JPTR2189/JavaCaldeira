@@ -5,8 +5,12 @@ import java.time.LocalDateTime;
 import java.text.DecimalFormat;
 
 
-// 1 - Criar metódos: Saque, deposito, pix, transferencia,
-// verificarSaldo, verificarHorario, verificarInformacoes
+// Validação de CPF
+// Histórico de transações
+// criar método para alterar endereço
+// Taxa de manutenção mensal
+// Criar um metódo que calcule juros sobre o saldo da conta mensalmente
+// Criar o método fechaConta() que encerra ela, zerando o saldo e deixando a inutilizável
 public class ContaBancaria {
 
     DecimalFormat formatador = new DecimalFormat("#.##");
