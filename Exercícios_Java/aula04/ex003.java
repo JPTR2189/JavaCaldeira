@@ -1,4 +1,4 @@
-package JavaCaldeira.Exercícios_Java.aula04.ex003;
+package JavaCaldeira.Exercícios_Java.aula04;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
