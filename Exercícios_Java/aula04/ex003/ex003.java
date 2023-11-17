@@ -1,10 +1,11 @@
-package JavaCaldeira.Exercícios_Java.aula04;
+package JavaCaldeira.Exercícios_Java.aula04.ex003;
+import java.util.InputMismatchException;
 import java.util.Scanner;
 
 // Solicitar ao usuário 2 números inteiros
 // Utilizar "exceções" para lidar com uma entrada inválida e exbir uma mensagem
 
-public class ex003 {
+public class ex003 extends Exception {
 
     public static void main(String[] args) {
 
@@ -16,7 +17,7 @@ public class ex003 {
             int numero1 = scanner.nextInt();
             System.out.print("Digite outro número: ");
             int numero2 = scanner.nextInt();
-        } catch (S verificarSeInteiro){
+        } catch (InputMismatchException ime){
             System.out.println("Digite um número inteiro válido!");
         }
 
