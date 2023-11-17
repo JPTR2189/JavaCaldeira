@@ -1,4 +1,4 @@
-package JavaCaldeira.Exercícios_Java.aula04;
+package JavaCaldeira.Exercícios_Java.aula04.ex002;
 import java.util.Scanner;
 
 // Criar um ENUM chamado "DiaDaSemana" representando os dias da semana
@@ -8,7 +8,7 @@ public class ex002 {
 
     public static void main(String[] args) {
 
-    enum DiasDaSemana {SEGUNDA, TERÇA, QUARTA, QUINTA, SEXTA, SÁBADO, DOMINGO};
+
 
     Scanner scanner = new Scanner(System.in);
 
