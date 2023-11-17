@@ -5,7 +5,7 @@ import java.util.Scanner;
 // Solicitar ao usuário 2 números inteiros
 // Utilizar "exceções" para lidar com uma entrada inválida e exbir uma mensagem
 
-public class ex003 extends Exception {
+public class ex003 {
 
     public static void main(String[] args) {
 
