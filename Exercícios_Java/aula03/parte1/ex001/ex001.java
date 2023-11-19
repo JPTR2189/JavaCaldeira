@@ -1,4 +1,4 @@
-package JavaCaldeira.Exercícios_Java.aula03.parte1;
+package JavaCaldeira.Exercícios_Java.aula03.parte1.ex001;
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.Scanner;
